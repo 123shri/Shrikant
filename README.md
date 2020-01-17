@@ -1,0 +1,2 @@
+# Shrikant
+Python Chess programmer
